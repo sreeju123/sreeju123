@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://github-readme-stats.vercel.app/api?username=sreeju123&&show_icons=true&show_icons=true&theme=material-palenight&layout=compact"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeju123&layout=compact)](https://github.com/sreeju123/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeju123&show_icons=true&theme=material-palenight&layout=compact) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeju123&layout=compact)](https://github.com/sreeju123/github-readme-stats)
 
 
 <a href="https://github.com/sreeju123/SeleniumAutomationFramework">
