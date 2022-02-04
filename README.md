@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋                                 
 
-
+![](https://komarev.com/ghpvc/?username=sreeju123&style=flat-square) [![Github](https://img.shields.io/github/followers/sreeju123?label=Follow&style=social)](https://github.com/sreeju123)
 
 Here are some ideas to get you started:
 
