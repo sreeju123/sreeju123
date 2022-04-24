@@ -14,5 +14,13 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeju123&show_icons=true&theme=material-palenight&layout=compact)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeju123&langs_count=8&layout=compact)](https://github.com/sreeju123/github-readme-stats)
 
-
+<a href="https://github.com/sreeju123/SeleniumAutomationFramework">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sreeju123&repo=SeleniumAutomationFramework" />
+</a>
+<a href="https://github.com/sreeju123/SeleniumCucumberFramework">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sreeju123&repo=SeleniumCucumberFramework" />
+</a>
+<a href="https://github.com/sreeju123/RestAssuredTestNGFramework">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sreeju123&repo=RestAssuredTestNGFramework" />
+</a>
 
